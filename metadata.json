@@ -1,0 +1,8 @@
+{
+  "name": "SID Maju Jaya - Sistem Informasi Desa Terpadu",
+  "description": "A comprehensive village information system featuring public transparency, digital letter services, and a robust admin dashboard powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
